@@ -1,5 +1,4 @@
 os
-typing
 numpy
 pandas
 matplotlib
